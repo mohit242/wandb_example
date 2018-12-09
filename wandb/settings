@@ -1,0 +1,4 @@
+[default]
+entity: perpetually_sleepy
+project: pytorch_example
+base_url: https://api.wandb.ai

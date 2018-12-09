@@ -1,0 +1,9 @@
+2018-12-09 18:35:53,124 DEBUG   MainThread:19461 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2018-12-09 18:35:53,461 DEBUG   MainThread:19461 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 210
+2018-12-09 18:35:53,477 DEBUG   MainThread:19461 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2018-12-09 18:35:53,870 DEBUG   MainThread:19461 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 210
+2018-12-09 18:36:01,084 DEBUG   MainThread:19461 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2018-12-09 18:36:01,550 DEBUG   MainThread:19461 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 217
+2018-12-09 18:36:13,246 DEBUG   MainThread:19461 [git_repo.py:repo():29] git repository is invalid
+2018-12-09 18:36:13,249 DEBUG   MainThread:19461 [connectionpool.py:_new_conn():823] Starting new HTTPS connection (1): api.wandb.ai:443
+2018-12-09 18:36:13,582 DEBUG   MainThread:19461 [connectionpool.py:_make_request():393] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 80
